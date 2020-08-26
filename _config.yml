@@ -74,7 +74,7 @@ share-links-active:
 url-pretty: "Nobbit.net"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
-excerpt_length: 50
+excerpt_length: 500
 
 # The keywords to associate with your website, for SEO purposes
 #keywords: "my,list,of,keywords"
